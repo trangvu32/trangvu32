@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @trangvu32
 - 👀 I’m interested in Data analytics and Data Visualization
-- 🌱 I’m freshly graduated with a Master of Digital Communication
+- 🌱 I graduated with a Master of Digital Communication
 - 📫 How to reach me: https://www.linkedin.com/in/trang-vu-a78081175/
 
 <!---
